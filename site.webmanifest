@@ -1,6 +1,7 @@
 {
   "name": "Cobalt Lens",
   "short_name": "Cobalt Lens",
-  "start_url": "/"
+  "start_url": "/",
+  "display": "standalone"
 }
 
